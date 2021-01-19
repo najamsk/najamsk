@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on Golang, React, Typescript, Next.Js, GraphQl and GRPC
+- 🌱 I’m currently learning kubernetes, service mesh, elixir
+- 👯 I’m looking to collaborate on elixir and microservices
+- 🤔 I’m looking for help with kubernetes and different cloud providers like GCP and AWS
+- 💬 Ask me about golang, front-end, graphQL
+- 📫 How to reach me: twitter: [@najamsikander](https://twitter.com/najamsikander)
+- ⚡ Fun fact: Like reading books, video games, humor and tech.
 
 One of my major passions in life is technology. After my computer science studies I applied my knowledge and enthusiasm to real-world applications by working in industry as a web developer with passion for front-end and back-end technologies.
 
