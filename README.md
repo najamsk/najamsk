@@ -23,14 +23,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: twitter: [@najamsikander](https://twitter.com/najamsikander)
 - ⚡ Fun fact: Like reading books, video games, humor and tech.
 
-One of my major passions in life is technology. After my computer science studies I applied myknowledge and enthusiasm to real-world applications by working in industry as a web developer withpassion for front-end and back-end technologies.
-
-Nowadays, I am a product manager in a prestigious tech based company. I enjoy my work, and thecontributions I have made in my area of research have earned me a respectable profile. But still I havean itch to make my craft better and stay up to date with the latest and greatest. I am always curious about howpeople (devs, product owners, designers, managers) around the world solve problems and what I canlearn from them.
+One of my major passions in life is technology. After my computer science studies I applied my knowledge and enthusiasm to real-world applications by working in industry as a web developer with passion for front-end and back-end technologies.
+Nowadays, I am a product manager in a prestigious tech based company. I enjoy my work, and the contributions I have made in my area of research have earned me a respectable profile. But still I have an itch to make my craft better and stay up to date with the latest and greatest. I am always curious about how people (devs, product owners, designers, managers) around the world solve problems and what I can learn from them.
 
 Looking forward to creating work opportunities and further enhancement of my skills.
 
-- Status: Full stack Web Engineer, Product Manager.
-- Fields: Project Management, Software Development, Consulting.
-- Web Technologies: Asp.net/C# MVC, NodeJS,KoaJS, Golang, MQQT, Socket.IO,Revel, Gin-Gonic, AngularJS, Html/CSS, Entity Framework.
-- DataBases: RethinkDB, CockroachDB, Cassandra, Sql Server.
-- Infrastructure: Docker, Gitlab, Teamcity, Octopus Deploy, Nginx, IIS
+•	Status: Full stack Web Engineer, Product Manager.
+•	Fields: Project Management, Software Development, Consulting.
+•	Web Technologies: Asp.net/C# MVC, NodeJS,KoaJS, Golang, MQQT, Socket.IO,Revel, Gin-Gonic, AngularJS, Html/CSS, Entity Framework.
+•	DataBases: RethinkDB, CockroachDB, Cassandra, Sql Server.
+•	Infrastructure: Docker, Gitlab, Teamcity, Octopus Deploy, Nginx, IIS
+
+
