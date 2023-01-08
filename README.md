@@ -31,8 +31,8 @@ Looking forward to creating work opportunities and further enhancement of my ski
 
 - Status: Full stack Web Engineer, Product Manager.
 - Fields: Project Management, Software Development, Consulting.
-- Web Technologies: Asp.net/C# MVC, NodeJS,KoaJS, Golang, MQQT, Socket.IO,Revel, Gin-Gonic, AngularJS, Html/CSS, Entity Framework.
-- DataBases: RethinkDB, CockroachDB, Cassandra, Sql Server.
-- Infrastructure: Docker, Kubernetes, GCP, Gitlab, Teamcity, Octopus Deploy, Nginx, IIS
+- Web Technologies: Golang, MQTT, Web Sockets, WebRTC ,Revel, Gin-Gonic, Node.js.
+- DataBases: RethinkDB, CockroachDB, Cassandra, Sql Server, Oracle. 
+- Infrastructure: Docker, Kubernetes, Kafka, Redis, GCP, Gitlab, Teamcity, Octopus Deploy, Nginx, IIS
 
 
