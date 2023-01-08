@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: twitter: [@najamsikander](https://twitter.com/najamsikander)
 - ⚡ Fun fact: Like reading books, video games, humor and tech.
 
-One of my major passions in life is technology. After my computer science studies I applied my knowledge and enthusiasm to real-world applications by working in industry as a web developer with passion for front-end and back-end technologies.
-Nowadays, I am a product manager in a prestigious tech based company. I enjoy my work, and the contributions I have made in my area of research have earned me a respectable profile. But still I have an itch to make my craft better and stay up to date with the latest and greatest. I am always curious about how people (devs, product owners, designers, managers) around the world solve problems and what I can learn from them.
+I am deeply passionate about technology and have always been driven to apply my knowledge and skills to real-world applications. After completing my studies in computer science, I began my career as a web developer, focusing on both front-end and back-end technologies. I am constantly seeking ways to improve my craft and stay current with the latest developments in the field. I am also fascinated by the diverse approaches that people in various roles, such as developers, product owners, designers, and managers, take to solve problems and am always looking for opportunities to learn from them.
+
+I am excited about the prospect of creating new work opportunities and further advancing my skills in the tech industry.
 
 Looking forward to creating work opportunities and further enhancement of my skills.
 
