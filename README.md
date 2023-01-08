@@ -33,6 +33,6 @@ Looking forward to creating work opportunities and further enhancement of my ski
 - Fields: Project Management, Software Development, Consulting.
 - Web Technologies: Asp.net/C# MVC, NodeJS,KoaJS, Golang, MQQT, Socket.IO,Revel, Gin-Gonic, AngularJS, Html/CSS, Entity Framework.
 - DataBases: RethinkDB, CockroachDB, Cassandra, Sql Server.
-- Infrastructure: Docker, Gitlab, Teamcity, Octopus Deploy, Nginx, IIS
+- Infrastructure: Docker, Kubernetes, GCP, Gitlab, Teamcity, Octopus Deploy, Nginx, IIS
 
 
