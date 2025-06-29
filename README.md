@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Golang, GraphQL and GRPC
+- 🔭 I’m currently working on Golang, Elixir, Phoenix Framework, GraphQL and GRPC
 - 🌱 I’m currently exploring event driven architecture, kafka, redis, Kubernetes and service mesh.
 - 👯 I’m looking to collaborate on Golang and microservices
 - 🤔 I’m looking for help with kubernetes and different cloud providers like GCP and AWS
